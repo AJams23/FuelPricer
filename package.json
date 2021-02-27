@@ -1,7 +1,7 @@
 {
   "name": "fuelpricer",
   "version": "1.0.0",
-  "description": "",
+  "description": "A fuel quote generator and database to provide quotes to a partner of our company.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
